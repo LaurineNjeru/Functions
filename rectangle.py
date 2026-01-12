@@ -1,4 +1,3 @@
-def area_circle(radius):
-    pi=3.142
-    return pi*radius*radius
-print(area_circle(7))
+def area_rectangle(length,width):
+    return length * width
+print(area_rectangle (10,5))
